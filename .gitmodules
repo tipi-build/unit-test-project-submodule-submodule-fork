@@ -1,0 +1,3 @@
+[submodule "deeper_submodule"]
+	path = deeper_submodule
+	url = git@github.com:tipi-build/unit-test-project-submodule-submodule-deeper_submodule.git
